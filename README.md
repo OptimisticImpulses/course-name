@@ -109,7 +109,7 @@ We need to use a blog-ready theme. For this activity, we will use a theme named 
   Historic note: previous version checked the homepage content was not empty.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Customize your homepage</h2></summary>
 
 _Nice work setting the theme! :sparkles:_
